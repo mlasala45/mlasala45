@@ -1,4 +1,4 @@
 [![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-2867B2?logo=linkedin)](https://www.linkedin.com/in/micah-lasala/)
 
-🎓 I'm a student at UNCC, graduating Spring 2024.<br>
-💼 I'm looking to start full-time work in January 2024.
+🎓 I'm a graduating student at UNCC, looking for full-time work.<br>
+💼 Looking for work in the Charlotte, Greensboro, or RTP area. Open to remote work.
