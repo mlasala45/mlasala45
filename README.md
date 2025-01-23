@@ -4,3 +4,5 @@
 
 🎓 I'm a recent graduate from UNCC, looking for full-time work.<br>
 💼 Looking for software development work in the Raleigh-Durham-Chapel Hill area.
+
+### [Exoplanets Visualizer](https://mlasala45.github.io/exoplanets-visualizer/)
