@@ -5,4 +5,4 @@
 🎓 I'm a recent graduate from UNC Charlotte (Spring 2024).<br>
 💼 Looking for software development work in the Raleigh-Durham-Chapel Hill area.
 
-### [Exoplanets Visualizer](https://mlasala45.github.io/exoplanets-visualizer/)
+### [Exoplanets Visualizer](https://mlasala45.github.io/projects/exoplanets-visualizer/)
